@@ -1,0 +1,6 @@
+[submodule "Configuration/PCIe-1760"]
+	path = Configuration/PCIe-1760
+	url = https://github.com/olegfinodeyev/PCIe-1760
+[submodule "DAQNavi/PCIe-1760"]
+	path = DAQNavi/PCIe-1760
+	url = https://github.com/olegfinodeyev/PCIe-1760
